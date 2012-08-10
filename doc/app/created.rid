@@ -1,0 +1,7 @@
+Thu, 09 Aug 2012 15:52:23 +0300
+doc/README_FOR_APP	Thu, 09 Aug 2012 11:52:51 +0300
+app/controllers/application_controller.rb	Thu, 09 Aug 2012 11:52:49 +0300
+app/controllers/products_controller.rb	Thu, 09 Aug 2012 15:20:14 +0300
+app/helpers/application_helper.rb	Thu, 09 Aug 2012 11:52:49 +0300
+app/helpers/products_helper.rb	Thu, 09 Aug 2012 15:20:14 +0300
+app/models/product.rb	Thu, 09 Aug 2012 15:20:14 +0300
