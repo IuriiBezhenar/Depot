@@ -176,3 +176,14 @@
   border-top: 1px solid #595;
 }
 /* END:cartmain */
+
+/* Styles for the cart in the sidebar */
+#cart, #cart table{
+  font-size: smaller
+  color: white  
+}
+#cart table{
+  border_top: 1px dotted #595;
+  border_bottom: 1px dotted #595;
+  margin_bottom: 10px;
+}
